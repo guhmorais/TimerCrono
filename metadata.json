@@ -1,0 +1,6 @@
+{
+  "name": "Floating Timer",
+  "description": "Cronômetros e temporizadores flutuantes de alta precisão com janelas sobrepostas (WindowManager) e temporizadores em notificações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
